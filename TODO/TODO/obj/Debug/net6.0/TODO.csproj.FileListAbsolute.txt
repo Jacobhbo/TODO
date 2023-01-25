@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.exe
+C:\Users\jacob\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.deps.json
+C:\Users\jacob\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.runtimeconfig.json
+C:\Users\jacob\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.dll
+C:\Users\jacob\source\repos\TODO\TODO\bin\Debug\net6.0\TODO.pdb
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.AssemblyInfo.cs
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.dll
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\refint\TODO.dll
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.pdb
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\TODO.genruntimeconfig.cache
+C:\Users\jacob\source\repos\TODO\TODO\obj\Debug\net6.0\ref\TODO.dll
